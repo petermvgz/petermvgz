@@ -6,7 +6,7 @@
 <h2>👨🏿‍💻 Software Development Projects:</h2>
 
 - <b>SwiftUI</b>
-  - [iPark App (SFSU)](https://github.com/joshmadakor1/Algorithms-Practice) - <b><i>Best Parking App Award (2023 San Francisco State University App Showcase Competition)</b></i>
+  - [iPark App (SFSU)](https://github.com/petermvgz/iParkApp-master) - <b><i>Best Parking App Award (2023 San Francisco State University App Showcase Competition)</b></i>
 
   
 - <b>PowerShell</b>
