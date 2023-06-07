@@ -10,7 +10,7 @@
 
   
 - <b>PowerShell</b>
-  - [Active Directory Home Lab](https://github.com/petermvgz)
+  - [Active Directory Home Lab](https://www.youtube.com/watch?v=MHsI8hJmggI)
   - []()
   - []()
   - []()
