@@ -1,6 +1,6 @@
 <h1>Hello, I'm Peter Deyi <br/> 
 
-<a href="https://www.linkedin.com/in/peterdeyi/">Information Systems Student</a> ,<a href="https://github.com/petermvgz"> Software Devleloper</a></h1>
+<a href="https://www.linkedin.com/in/peterdeyi/">Information Systems Student</a> ,<a href="https://github.com/petermvgz"> Software Devleloper</a> ,<a href="https://ehs.sfsu.edu">Webmaster (SFSU)</a></h1>
 <h2>📄 Certifications</h2>
 
 <h2>👨🏿‍💻 Software Development Projects:</h2>
