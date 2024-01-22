@@ -1,6 +1,6 @@
 <h1>Hello, I'm Peter Deyi <br/> 
 
-<a href="https://www.linkedin.com/in/peterdeyi/">Information Systems Student</a> ,<a href="https://github.com/petermvgz"> Software Devleloper</a> ,<a href="https://ehs.sfsu.edu">Webmaster (SFSU)</a></h1>
+<a href="https://www.linkedin.com/in/peterdeyi/">Information Systems Student</a> ,<a href="https://github.com/petermvgz"> Software Developer</a> ,<a href="https://ehs.sfsu.edu">Webmaster (SFSU)</a></h1>
 <h2>📄 Certifications</h2>
 - <a href="https://www.credly.com/badges/050b4c53-4ee6-4c79-8341-42ae75c6589f/public_url">(ISC)² Candidate</a>
 <h2>👨🏿‍💻 Software Development Projects:</h2>
@@ -18,7 +18,6 @@
   - [How to Build a Transformative Cloud Server: OpenVPN, Docker, Nextcloud](https://youtube.com/watch?v=waW8NQb2VaY&si=iQib75jYpsXuaYvY)
   - []()
   - []()
--->
 
 - <b>Python</b>
   - []()
